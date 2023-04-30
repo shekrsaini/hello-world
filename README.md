@@ -3,3 +3,5 @@ hello-world repository for git tutorial
 this is the tutotial from w3schools.com
 
 This replository bulit step by step from this tutorial
+
+creating new branch on local and pushing to remote
